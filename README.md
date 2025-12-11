@@ -2,7 +2,6 @@
  ## PROJECT TITLE : Simple Quiz Program in C
 
 
----
 
 
 ## Project Details
