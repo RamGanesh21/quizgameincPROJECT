@@ -1,7 +1,9 @@
-Project Title
+
+ Simple Quiz Program in C
+
+
 ---
- Simple quiz program in c
----
+
 
 ## Project Details
 **Team Members:**
