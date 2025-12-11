@@ -1,5 +1,5 @@
 
- Simple Quiz Program in C
+ ## PROJECT TITLE : Simple Quiz Program in C
 
 
 ---
